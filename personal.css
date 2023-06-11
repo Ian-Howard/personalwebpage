@@ -1,0 +1,111 @@
+/* General Styles */
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background: #2c3e50;
+    color: #ffffff;
+    text-align: center;
+    padding: 2em 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+h2 {
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 0.5em;
+    color: #2c3e50;
+    font-size: 1.8em;
+}
+
+h3 {
+    color: #2c3e50;
+    margin: 0;
+    padding: 1em 0;
+    font-size: 1.5em;
+}
+
+h4 {
+    margin-left: 1.5em;
+    font-weight: normal;
+    color: #555;
+    font-size: 1.2em;
+}
+
+section {
+    padding: 3em;
+    margin: 1em;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 2em;
+    padding: 0;
+}
+
+li {
+    padding: 0.5em 0;
+    font-size: 1em;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: 2px solid #3498db;
+}
+
+/* Contact Section */
+#contact {
+    background-color: #ecf0f1;
+    padding: 2em;
+    text-align: center;
+}
+
+#contact p {
+    margin: 0.5em 0;
+    font-size: 1.2em;
+}
+
+/* Skills Section */
+#skills p {
+    margin: 0.5em 0;
+    font-size: 1.1em;
+}
+
+/* Experience details */
+#experience ul {
+    margin-left: 3em;
+}
+
+/* Education Section */
+#education {
+    background-color: #ecf0f1;
+    padding: 2em;
+}
+
+/* License Section */
+#licenses {
+    background-color: #ecf0f1;
+    padding: 2em;
+}
+
+/* Publications Section */
+#publications {
+    background-color: #ecf0f1;
+    padding: 2em;
+}
